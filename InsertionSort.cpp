@@ -1,5 +1,7 @@
 #include <iostream>
-
+/* *
+* Lucas Gomes dos Santos
+*/
 void sort(int arraySort[], int n) {
     for (int i = 1; i < n; i++) {
         int key = arraySort[i];
