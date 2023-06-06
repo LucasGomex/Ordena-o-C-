@@ -1,5 +1,7 @@
 #include <iostream>
-
+/* *
+* Lucas Gomes dos Santos
+*/
 void trocar(int& a, int& b) {
     int temp = a;
     a = b;
